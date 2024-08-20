@@ -26,7 +26,7 @@ The **Dollar Tree Compass Mobile App** keeps users informed about the latest pro
 
 - **Name**: Holly Wyckoff  
 - **Email**: holly9167wyckoff@outlook.com
-- **Website**: Dollar Tree Compass Mobile App
+- **Website**: [Dollar Tree Compass Mobile App](https://www.dollartree-compass.com)
 - **Address**: 3898 Woodside Circle Tallahassee, FL 32301
 - Holly Wyckoff is an experienced software developer with a deep passion for creating user-friendly mobile applications. With over 10 years of coding experience.
 - Holly is adept in modern web technologies and is known for her problem-solving skills and helping nature.
